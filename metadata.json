@@ -1,0 +1,6 @@
+{
+  "name": "ELV IP Calculator",
+  "description": "An integrated IP subnet, CCTV storage, and PoE budget calculator designed for ELV (Extra Low Voltage) system engineers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
